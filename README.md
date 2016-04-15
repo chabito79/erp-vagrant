@@ -6,7 +6,7 @@
 -Github Desktop (opcional)
 
 
-1. Clonar este repositorio en un folder local `git clone https://github.com/frappe/erpnext_vagrant.git erpnext_vagrant`
+1. Clonar este repositorio en un folder local `git clone https://github.com/chabito79/erp-vagrant.git erp`
 2. Inicializa tu maquina virtual con `vagrant up`
 3. Configura los puertos del host
 4. Conectate a tu maquina virtual por SSH `vagrant ssh`
